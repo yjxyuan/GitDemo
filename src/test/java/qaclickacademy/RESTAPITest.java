@@ -7,17 +7,17 @@ public class RESTAPITest {
 	@Test
 	public void postjira()
 	{
-		System.out.println("postjira");
-		System.out.println("postjiraabcd");
-		System.out.println("changes Again");
+		System.out.println("pos23tjira");
+		System.out.println("postj23iraabcd");
+		System.out.println("chang23es Again");
 		
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter123");
-		System.out.println("deleteTwitter123 change again");
+		System.out.println("deleteTw32itter123");
+		System.out.println("delete234Twitter123 change again");
 		
 	}
 }
