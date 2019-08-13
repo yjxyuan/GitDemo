@@ -9,6 +9,7 @@ public class RESTAPITest {
 	{
 		System.out.println("postjira");
 		System.out.println("postjiraabcd");
+		System.out.println("changes Again");
 		
 	}
 	
@@ -16,6 +17,7 @@ public class RESTAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter123");
+		System.out.println("deleteTwitter123 change again");
 		
 	}
 }
