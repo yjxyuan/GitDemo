@@ -8,13 +8,14 @@ public class RESTAPITest {
 	public void postjira()
 	{
 		System.out.println("postjira");
+		System.out.println("postjiraabcd");
 		
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter123");
 		
 	}
 }
